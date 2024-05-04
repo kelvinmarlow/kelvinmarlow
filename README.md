@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Olá, eu sou o Kelvin, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 <p align="center">
 <a href="https://instagram.com/kelvinmarlow1"><img src="https://img.shields.io/badge/-@kelvinmarlow1_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-Kelvin%20Marlow-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kelvin-marlow-87065a103"><img src="https://img.shields.io/badge/-Kelvin%20Marlow-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kelvinmarlow@arca.com.py"><img src="https://img.shields.io/badge/-kelvinmarlow@arca.com.py-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
