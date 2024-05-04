@@ -19,6 +19,9 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
+![Woocommerce](https://img.shields.io/badge/-Woocommerce-333333?style=flat&logo=woocommerce)
+![Elementor](https://img.shields.io/badge/-Elementor-333333?style=flat&logo=elementor)
 
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
