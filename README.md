@@ -4,7 +4,7 @@
     💬 Portugues, Spanish and English &nbsp; ⚡ WebDev Senior FullStack &nbsp;
 </p>
   <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kelvinmarlow&label=Vistas+del+perfil&color=blueviolet&style=plastic"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kelvinmarlow&label=Vistas+del+perfil&color=blue&style=plastic"/> </p>
  <br>
 <h2 align="center"> 🌐 Socials </h2>
 <p align="center">
@@ -60,5 +60,5 @@ Intermediate: English &nbsp;
     <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=kelvinmarlow&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> &nbsp;
     <img  alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinmarlow&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
-
+ <br> <br>
 
