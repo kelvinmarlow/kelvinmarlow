@@ -1,7 +1,7 @@
-<h1>👋 &nbsp;Olá, eu sou o Kelvin, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Kelvin, um desenvolvedor full stack que desde criança sonhou com programação e robótica!</h1>
 <p align="center">
     🌎⠀From LATAM &nbsp; 
-    💬 Portugues, Spanish and English &nbsp; ⚡ WebDev Senior FullStack &nbsp;
+    💬 Portuguese, Spanish and English &nbsp; ⚡ WebDev Senior FullStack &nbsp;
 </p>
   <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kelvinmarlow&label=Vistas+del+perfil&color=blue&style=plastic"/> </p>
